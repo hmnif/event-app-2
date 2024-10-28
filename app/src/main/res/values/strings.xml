@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EventApps</string>
+    <string name="title_deskripsi_kegiatan">Deskripsi Kegiatan</string>
+    <string name="buttonDaftarSekarang">Register</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="enable_dark_mode">Enable dark mode</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="enable_notifications">Enable notifications</string>
+    <string name="nullDescription">null</string>
+
+    <string name="dicoding_event_app_home">Dicoding Event</string>
+    <string name="upcoming_event">Upcoming Events</string>
+    <string name="finished_event">Finished Events</string>
+    <string name="searchbar_hint">Masukkan event</string>
+    <string name="no_event_found">Event tidak ditemukan</string>
+    <string name="enabled_notif">Enable Notifications</string>
+</resources>
